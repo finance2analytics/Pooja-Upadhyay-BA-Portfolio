@@ -4,14 +4,15 @@ Welcome to my Business Analyst portfolio! I bring 9+ years of experience in inve
 
 ## 📂 Portfolio Contents
 
-- Case Studies
-- Business Analyst Documents (BRD, FRD, etc.)
-- SQL & Python Scripts
-- Dashboards & Visualizations
-- Certifications
+- [Case Studies](./Case_Studies/)
+- [Business Analyst Documents (BRD, FRD, etc.)](./Documents/)
+- [SQL Scripts](./SQL_Projects/)
+- [Python Scripts](./Python_Scripts/)
+- [Dashboards & Visuals](./Dashboards/)
+- [Certifications](./Certifications/)
+
 
 ## 🔗 Connect with Me
 
 - 📧 Email: poojaupadhyay04061991@gmail.com
 - 🔗 LinkedIn: [Pooja Upadhyay](https://linkedin.com/in/pooja-upadhyay-a781a0109)
-
