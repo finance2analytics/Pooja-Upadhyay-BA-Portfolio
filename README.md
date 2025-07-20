@@ -5,7 +5,7 @@ Welcome to my Business Analyst portfolio! I bring 9+ years of experience in inve
 ## 📂 Portfolio Contents
 
 - [Case Studies](Pooja-BA-Portfolio/Case_Studies)
-- [Business Analyst Documents (BRD, FRD, etc.)](./Documents/)
+- [Business Analyst Documents (BRD, FRD, etc.)](Pooja-BA-Portfolio/Documents)
 - [SQL Scripts](Pooja-BA-Portfolio/SQL_Projects)
 - [Python Scripts](Pooja-BA-Portfolio/Python_Scripts)
 - [Dashboards & Visuals](./Dashboards/)
