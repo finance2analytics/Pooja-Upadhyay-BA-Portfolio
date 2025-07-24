@@ -1,15 +1,21 @@
-# Pooja Upadhyay – Business Analyst Portfolio
+📄 Case Study 1: Trade Settlement Process Optimization
+🔹 Brief Summary
+This project focused on reducing settlement failures in the trade lifecycle for global custody operations—particularly in DTC and Euroclear markets. As a Business Analyst, I collaborated with operations and technology teams to analyze trade data, identify process inefficiencies, and implement data-driven improvements.
 
-Welcome to my Business Analyst portfolio! I bring 9+ years of experience in investment banking operations, with a focus on trade settlements and client servicing. I'm pivoting into a Business Analyst role, leveraging my domain expertise, strong documentation skills, and hands-on knowledge of tools like JIRA, SQL, Excel, Tableau, Power BI, and Python.
+I used tools like Excel, SQL, and JIRA to extract insights, propose automation alerts, document the existing process, and support UAT for system enhancements. This initiative led to smoother settlements and reduced operational risks.
 
-## 📂 Portfolio Contents
+🎯 Goal of the Project
+To reduce trade settlement failure rates by at least 15% through:
 
-- [Case Studies](Case_Study_1/Case_Studies/)
-- [Business Analyst Documents (BRD, FRD, etc.)](/Documents/)
-- [SQL Scripts](/SQL_Projects/)
-- [Python Scripts](/Python_Scripts/)
-- [Dashboards & Visuals](/Dashboards/)
-- [Certifications](/Certifications/)
+Analyzing root causes of failures
+
+Enhancing the escalation process
+
+Proposing automation alerts for unmatched trades
+
+Improving documentation and stakeholder coordination
+
+
 
 ## 🔗 Connect with Me
 
