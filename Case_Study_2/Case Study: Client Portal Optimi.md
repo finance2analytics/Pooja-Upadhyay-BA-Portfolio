@@ -4,7 +4,7 @@
 Improving Trade Visibility and Instruction Submission via NEXEN Client Portal
 
 ## 🧠 Project Background:
-At BNY Mellon, clients used **NEXEN**, a proprietary web-based portal to:
+At ABC Company , clients used **Settlement Portal**, a proprietary web-based portal to:
 - Monitor trade status
 - Submit Receive/Delivery instructions
 - Upload required documentation
