@@ -53,6 +53,7 @@ Though I worked in operations, I closely collaborated with technology and produc
 - JIRA – to log issues and follow up on feature tickets
 - Internal Settlement Tools (DTC, Euroclear) – to cross-check data
 - NEXEN Portal – to simulate client flows
+- Tableau for Data Visualisation
 
 ---
 
